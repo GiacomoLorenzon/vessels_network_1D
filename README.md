@@ -22,6 +22,8 @@ make -j<N>
 ```
 
 ## Test cases
+To run some test cases, go to this [link](https://github.com/GiacomoLorenzon/vascular_hemodynamics_test_cases.git)
+and follow the instructions.
 
 ## Referencing **<kbd>life<sup>x</sup></kbd>**
 If you use the results obtained with the help of **<kbd>life<sup>x</sup></kbd>**,
