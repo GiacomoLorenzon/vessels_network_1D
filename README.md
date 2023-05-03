@@ -12,8 +12,8 @@ Otherwise, to download, install or use **<kbd>life<sup>x</sup></kbd>**, please
 refer to the [user guide and documentation](https://lifex.gitlab.io/lifex/).
 
 ## Usage
-Download the files, and move the folder **<kbd>vessels_network_1D</kbd>**
-with its content to the following path:
+Download this folder **<kbd>vessels_network_1D</kbd>**
+with its content at the following path:
 ```
 <path_to_lifex>/lifex/examples/
 ```
